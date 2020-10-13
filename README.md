@@ -1,2 +1,3 @@
 # pcrPjjcAuto
-Lua progmmaing automaticity switch three teams as defensive teams
+Lua progmmaing language  
+automaticity switch three teams as defensive teams
