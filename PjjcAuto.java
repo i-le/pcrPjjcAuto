@@ -361,7 +361,7 @@ public class PjjcAuto {
         Tap Finishx, Finishy
         Delay round (4567 * rnd() + 888)
             
-            Tap Avatarx, Avatary
+        Tap Avatarx, Avatary
         Delay round (1678 * rnd() + 100)
         Tap Avatarx, Avatary
         Delay round (1678 * rnd() + 100)
