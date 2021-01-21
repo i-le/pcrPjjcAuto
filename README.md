@@ -6,4 +6,3 @@
 - automaticity moving curior within setted timing
 - undetectable
 - can be used for stock trading
-- no commercial
