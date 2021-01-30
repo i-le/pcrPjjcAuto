@@ -1,4 +1,4 @@
-# pcrPjjcAuto switch
+# pcrPjjcAuto switch defensive teams
 ---
 - Lua language  
 - automaticity switch three teams as defensive teams
