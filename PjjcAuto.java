@@ -126,16 +126,16 @@ public class PjjcAuto {
         Copy1y = Int((275 - 258 + 1) * Rnd() + 258)
 
         Tap Copy1x, Copy1y
-        Delay round (2345 * rnd() + 433)
+        Delay round (2345 * rnd() + 533)
 
         Tap Myteam2x, Myteam2y
-        Delay round (4678 * rnd() + 885)
+        Delay round (4678 * rnd() + 585)
 
         Tap Teamx, Teamy
-        Delay round (4678 * rnd() + 885)
+        Delay round (4678 * rnd() + 585)
 
         Tap Sec1x, Sec1y
-        Delay round (2345 * rnd() + 433)
+        Delay round (2345 * rnd() + 533)
 
         Dim Copy2x, Copy2y
         Randomize
