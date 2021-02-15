@@ -64,18 +64,18 @@ public class PjjcAuto {
         Dim Avatarx2, Avatary2
         Randomize
                 Avatarx2 = Int((858 - 750 + 1) * Rnd() + 750)
-        Avatary2 = Int((730 - 622 + 1) * Rnd() + 622)
+        Avatary2 = Int((730 - 622 + 1) * Rnd() + 822)
 
         Tap Avatarx2, Avatary2
-        Delay round (1678 * rnd() + 100)
+        Delay round (1678 * rnd() + 110)
         Tap Avatarx2, Avatary2
-        Delay round (1678 * rnd() + 100)
+        Delay round (1678 * rnd() + 120)
         Tap Avatarx2, Avatary2
-        Delay round (1678 * rnd() + 100)
+        Delay round (1678 * rnd() + 130)
         Tap Avatarx2, Avatary2
-        Delay round (1678 * rnd() + 100)
+        Delay round (1678 * rnd() + 140)
         Tap Avatarx2, Avatary2
-        Delay round (1678 * rnd() + 100)
+        Delay round (1678 * rnd() + 150)
 
         Dim Myteam3x, Myteam3y
         Randomize
