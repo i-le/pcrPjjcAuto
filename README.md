@@ -4,7 +4,7 @@
 - automaticity switch three teams as defensive teams
 - determine x,y coordinates
 - automaticity moving curior within setted timing
-- undetectable
+- set timing to make it undetectable
 - can be used for stock trading
 ---
 # Contact Me
