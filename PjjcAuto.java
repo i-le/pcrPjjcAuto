@@ -1,4 +1,4 @@
-package week3arrays;
+package pjjcAuto;
 
 public class PjjcAuto {
     public static void main(String[] args) {
