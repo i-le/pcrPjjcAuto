@@ -241,6 +241,13 @@ public class PjjcAuto {
 
         Tap Teamx, Teamy
         Delay round (4678 * rnd() + 885)
+            
+            
+        Tap Myteam2x, Myteam2y
+        Delay round (4678 * rnd() + 885)
+
+        Tap Teamx, Teamy
+        Delay round (4678 * rnd() + 885)
 
         Tap Sec2x, Sec2y
         Delay round (2345 * rnd() + 433)
