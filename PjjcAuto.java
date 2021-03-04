@@ -9,6 +9,9 @@ public class PjjcAuto {
 
         Tap Homex, Homey
         Delay round (4678 * rnd() + 1385)
+
+             Tap Homex, Homey
+        Delay round (4678 * rnd() + 1385)
             
             Tap Homex, Homey
         Delay round (4678 * rnd() + 1385)
