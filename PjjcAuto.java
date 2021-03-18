@@ -383,3 +383,10 @@ public class PjjcAuto {
         Delay round (1678 * rnd() + 100)
     }
 }
+
+Dim Homex, Homey
+        Randomize
+                Homex = Int((790 - 690 + 1) * Rnd() + 690)
+        Homey = Int((780 - 757 + 1) * Rnd() + 757)
+
+
