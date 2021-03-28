@@ -44,9 +44,9 @@ public class PjjcAuto {
         Tap Myteam1x, Myteam1y
         Delay round (4678 * rnd() + 885)
 
-        Dim Avatarx1, Avatary1
+       
         Randomize
-                Avatarx1 = Int((858 - 750 + 1) * Rnd() + 750)
+        Avatarx1 = Int((858 - 750 + 1) * Rnd() + 750)
         Avatary1 = Int((730 - 622 + 1) * Rnd() + 622)
 
         Tap Avatarx1, Avatary1
