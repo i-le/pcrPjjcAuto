@@ -4,11 +4,11 @@ public class PjjcAuto {
     public static void main(String[] args) {
         Dim Homex, Homey
         Randomize
-                Homex = Int((790 - 690 + 1) * Rnd() + 690)
+        Homex = Int((790 - 690 + 1) * Rnd() + 690)
         Homey = Int((780 - 757 + 1) * Rnd() + 757)
             
-             Randomize
-                Homex = Int((790 - 690 + 1) * Rnd() + 690)
+        Randomize
+        Homex = Int((790 - 690 + 1) * Rnd() + 690)
         Homey = Int((780 - 757 + 1) * Rnd() + 757)
 
         Tap Homex, Homey
