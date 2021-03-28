@@ -6,6 +6,10 @@ public class PjjcAuto {
         Randomize
                 Homex = Int((790 - 690 + 1) * Rnd() + 690)
         Homey = Int((780 - 757 + 1) * Rnd() + 757)
+            
+             Randomize
+                Homex = Int((790 - 690 + 1) * Rnd() + 690)
+        Homey = Int((780 - 757 + 1) * Rnd() + 757)
 
         Tap Homex, Homey
         Delay round (4678 * rnd() + 1385)
